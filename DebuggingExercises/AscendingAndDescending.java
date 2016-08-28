@@ -1,6 +1,7 @@
 /**
  * Created by jc319816 on 28/08/16.
  */
+package DebuggingExercises;
 import java.util.Scanner;
 public class AscendingAndDescending
 {

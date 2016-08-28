@@ -1,6 +1,7 @@
+package DebuggingExercises;
 import java.util.Scanner;
 
-class EvenOdd
+public class EvenOdd
 {
    public static void main (String args[]) 
    {Scanner input = new Scanner(System.in);

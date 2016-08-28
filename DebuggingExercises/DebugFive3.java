@@ -4,6 +4,7 @@
 // Less than 111 Invalid
 // Valid and less than 500 - Automotive Department
 // Valid and 500 or higher Housewares Department
+package DebuggingExercises;
 import java.util.Scanner;
 public class DebugFive3
 {

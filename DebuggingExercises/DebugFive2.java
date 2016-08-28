@@ -1,5 +1,6 @@
 // DebugFive2.java
 // Decides if two numbers are evenly divisible
+package DebuggingExercises;
 import java.util.Scanner;
 public class DebugFive2
 {

@@ -1,5 +1,6 @@
 // DebugFive4.java
 // Outputs highest of four numbers
+package DebuggingExercises;
 import javax.swing.*;
 public class DebugFive4
 {
